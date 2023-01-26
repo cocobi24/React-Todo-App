@@ -1,27 +1,6 @@
 import React, { useReducer, createContext, useContext, useRef } from 'react';
 
-const initialTodos = [
-  {
-    id: 1,
-    text: 'TEMP_1',
-    done: true
-  },
-  {
-    id: 2,
-    text: 'TEMP_2',
-    done: true
-  },
-  {
-    id: 3,
-    text: 'TEMP_3',
-    done: false
-  },
-  {
-    id: 4,
-    text: 'TEMP_4',
-    done: false
-  }
-];
+const initialTodos = [];
 
 function todoReducer(state, action) {
   switch (action.type) {
