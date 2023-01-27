@@ -18,7 +18,7 @@
 <!-- 사용 기술 -->
 ## 기술 스택
 <img src="https://img.shields.io/badge/React-4AD5FF?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/styled components-F1A1A0?style=flat&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/Styled components-F1A1A0?style=flat&logo=Styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Context API-gray?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-212121?style=flat&logo=Vercel&logoColor=white"/>
 <br><br>
