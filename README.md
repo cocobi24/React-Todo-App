@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+<!-- 개요 -->
+# React Todo App
+<p align="center">
+  <br>
+    <img style="width: 350px;" src="https://user-images.githubusercontent.com/73522666/214995116-8baa4eab-f022-427d-8fb4-9c021b67587d.png">
+  <br>
+</p>
+<a href="https://jinny-todo-app.vercel.app/">https://jinny-todo-app.vercel.app/</a>
+<br><br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- 프로젝트 소개 -->
+## 프로젝트 소개
+<p align="justify">
+리액트를 이용한 실습을 통해 Styled-components와 Context API의 개념을 빠르게 익히기 위해 Todo 프로젝트를 시작하게 되었다.
+</p>
+<br><br>
 
-## Available Scripts
+<!-- 사용 기술 -->
+## 기술 스택
+<img src="https://img.shields.io/badge/React-4AD5FF?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled components-F1A1A0?style=flat&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/Context API-gray?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-212121?style=flat&logo=Vercel&logoColor=white"/>
+<br><br>
 
-In the project directory, you can run:
+<!-- 구현 기능 -->
+## 구현 기능
+* Styled-components 를 통한 컴포넌트 스타일링
+* Context API 를 사용하여 전역 상태 관리
+* LocalStorage를 이용하여 데이터 저장
+* Vercel를 이용하여 배포
+<br><br>
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- 사용 방법 -->
+## 사용 방법
+* install
+  ```sh
+   npx create-react-app mashup-todolist
+  ```
+  ```sh
+   yarn add react-icons styled-components
+  ```
+* start
+  ```sh
+  yarn start
+  ```
+<br><br>
